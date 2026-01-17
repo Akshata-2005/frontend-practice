@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Front-End Practice</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Front-End Project</h1>
+    </header>
+
+    <section>
+        <p>This is a practice page using HTML, CSS, and Bootstrap.</p>
+        <button class="btn">Click Me</button>
+    </section>
+</body>
+</html>
